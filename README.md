@@ -39,6 +39,6 @@ After individual test or all tests run, output contains:
 
  - Analyzing: "sentence" - let user know what sentence is analyzing  
  - Count: N - number of chars in shortest/longest word(s)
- - Words: [word1, word2] - set of longest words: can be empty (if file is empty), contains 1 or more words 
+ - Words: [word1, word2] - set of words: can be empty (if file is empty), contains 1 or more words 
 with same MIN or MAX length
 
